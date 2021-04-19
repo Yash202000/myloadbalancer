@@ -1,7 +1,7 @@
 myloadbalancer
 =========
 
-A brief description of the role goes here.
+This role will configure haproxy load balancer.
 
 Requirements
 ------------
